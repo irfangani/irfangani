@@ -72,15 +72,18 @@ I'm a **Full Stack Developer** with a strong passion for creating scalable, effi
 
 ### Niagahoster - Web Hosting Unlimited Indonesia (5 yrs 8 mos)
 - **Senior Full Stack Developer**  
-  _Jun 2023 – Aug 2023 (3 mos)_  
+  _Jun 2023 – Aug 2023 (3 mos)_
+  Sleman, Yogyakarta, Indonesia - Remote  
   Took ownership of the entire web hosting system infrastructure, focusing on scalability, database optimization, and enhancing user experience.
   
 - **Mid-Level Full Stack Developer**  
-  _Jan 2022 – May 2023 (1 yr 5 mos)_  
+  _Jan 2022 – May 2023 (1 yr 5 mos)_
+  Sleman, Yogyakarta, Indonesia - Remote  
   Led several projects involving hosting optimizations and customer-facing tools. Integrated **Google Analytics**, improved website performance, and handled complex backend systems.
   
 - **Junior Full Stack Developer**  
   _Sep 2019 – Dec 2021 (2 yrs 4 mos)_  
+  Sleman, Yogyakarta, Indonesia - Hybrid  
   Focused on building and maintaining core features of web hosting services. Worked closely with the backend team on **REST APIs** and the frontend using **Vue.js**.
 
 ---
@@ -88,7 +91,7 @@ I'm a **Full Stack Developer** with a strong passion for creating scalable, effi
 ### CX (1 yr 9 mos)
 - **Full Stack Developer**  
   _Jan 2018 – Sep 2019 (1 yr 9 mos)_  
-  Yogyakarta dan Sekitarnya, Yogyakarta, Indonesia - On-site
+  Sleman, Yogyakarta, Indonesia - On-site
 
 ---
 
