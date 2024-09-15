@@ -71,14 +71,13 @@ I'm a **Full Stack Developer** with a strong passion for creating scalable, effi
 ---
 
 ### Niagahoster - Web Hosting Unlimited Indonesia (5 yrs 8 mos)
-- **Senior Full Stack Developer**  
+- **Full Stack Developer**  
   _Sep 2019 – Aug 2023 (4 yrs)_  
   Sleman, Yogyakarta, Indonesia - Remote
 
 ---
 
-### CX (1 yr 9 mos)
-- **Full Stack Developer**  
+- **CX**  
   _Jan 2018 – Sep 2019 (1 yr 9 mos)_  
   Sleman, Yogyakarta, Indonesia - On-site
 
