@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Gani
 
-I'm a **Full Stack Developer** with a strong passion for creating scalable, efficient, and user-friendly web applications. I have experience in backend and frontend development, and I'm always eager to collaborate on exciting projects.
+I'm a **Full Stack Developer** with a strong passion for creating scalable, efficient, and user-friendly web applications. I’m always eager to explore and I love creating innovative, efficient web solutions that make a real impact.
 
 ### 💻 Tech Stack
 
@@ -26,10 +26,6 @@ I'm a **Full Stack Developer** with a strong passion for creating scalable, effi
 
 ---
 
-### 🔭 Current Projects
-- Developing **Financial Applications** for managing hospital finances at IHC RS Krakatau Medika.
-- Freelancing as a **Software Engineer** with projects related to **web hosting systems** and third-party integrations.
-
 ### 🌱 Learning and Improving
 - **Advanced Backend Development**
 - **Modern Frontend Frameworks**
@@ -50,21 +46,21 @@ I'm a **Full Stack Developer** with a strong passion for creating scalable, effi
 
 ## Experience
 
-### Morbis (1 yr 4 mos)
+### Morbis
 - **Full-stack Developer** (Contract)  
-  _Jun 2024 – Present (4 mos)_  
+  _Jun 2024 – Present_  
   IHC RS KRAKATAU MEDIKA - On-site  
-  Developing financial applications to manage hospital finances using **Laravel**, **Inertia.js**, and other technologies.
+  Involved in developing finance App. Techs: Laravel, Inertiajs, Tailwindcss, Vuejs, Docker, Redis, Posgresql
 
 - **Software Engineer** (Freelance)  
-  _Jun 2023 – Present (1 yr 4 mos)_  
+  _Jun 2023 – Present_  
   Yogyakarta, Indonesia - Remote  
 
 ---
 
 ### Oceahoster (Freelance)
 - **Software Engineer**  
-  _Oct 2023 – Present (1 yr)_  
+  _Oct 2023_  
   Bantul, Yogyakarta, Indonesia - Remote  
   Customized a web hosting billing system, revamped the default order flow, and integrated with third-party services.
 
