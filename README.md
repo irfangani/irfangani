@@ -46,6 +46,14 @@ I'm a **Full Stack Developer** with a strong passion for creating scalable, effi
 
 ## Experience
 
+### UTAS
+- **Full-stack Developer** (Full-time)
+  
+  _Feb 2025 – Present_  
+  Yogyakarta, Indonesia - Remote  
+
+---
+
 ### Morbis
 - **Full-stack Developer** (Contract)  
   _Jun 2024 – Present_  
