@@ -1,6 +1,6 @@
 # Hi there, I'm Gani 👋
 
-### Senior Full Stack Developer
+### Full Stack Developer
 
 I am a Full Stack Developer with over 5 years of experience building scalable, high-performance web applications. I focus on engineering robust architectures, optimizing large-scale systems, and delivering seamless user experiences. 
 
