@@ -1,14 +1,12 @@
-# Hi there, I'm Gani 👋
+# Hi there, I'm Gani
 
 ### Full Stack Developer
 
-I am a Full Stack Developer with over 5 years of experience building scalable, high-performance web applications. I focus on engineering robust architectures, optimizing large-scale systems, and delivering seamless user experiences. 
-
-I transition easily between backend logic, frontend interfaces, and server infrastructure to build end-to-end solutions that drive real business value.
+I am a Full Stack Developer with over 5 years of experience building scalable, high-performance web applications. While my primary focus is on backend development and engineering robust architectures, I am equally comfortable working across frontend interfaces and server infrastructure to deliver seamless, end-to-end solutions that drive real business value.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Frontend Development**  
 <p align="left">
@@ -49,29 +47,30 @@ I transition easily between backend logic, frontend interfaces, and server infra
 
 ---
 
-### 💼 Professional Experience
+### Professional Experience
 
-**UTAS** | *Full Stack Developer*  
-📅 `Feb 2025 – Present` 📍 *Remote (Yogyakarta, ID)*  
+**UTAS** | *Full-stack Developer*  
+`Feb 2025 – Present` • *Remote*  
 
-**Morbis (IHC RS Krakatau Medika)** | *Full Stack Developer (Contract & Freelance)*  
-📅 `Jun 2023 – Jan 2026` 📍 *Hybrid / Remote*  
-* Engineered and maintained a scalable finance application to streamline internal operations.
-* **Tech Stack:** Laravel, Vue.js, Inertia.js, TailwindCSS, PostgreSQL, Redis, Docker.
+**Morbis** | *Software Engineer & Full-stack Developer*  
+`Jun 2023 – Mar 2025` • *Hybrid*  
+- **Software Engineer** *(Jun 2023 – Mar 2025)*
+- **Full-stack Developer — IHC RS Krakatau Medika** *(Jun 2024 – Dec 2024):* Engineered and maintained a scalable financial application to streamline internal hospital operations.
+- **Tech Stack:** Laravel, Vue.js, Inertia.js, TailwindCSS, PostgreSQL, Redis, Docker.
 
-**Oceahoster** | *Software Engineer (Freelance)*  
-📅 `Oct 2023` 📍 *Remote*  
-* Customized a complex web hosting billing system, revamping the default order flow to improve conversion rates.
-* Successfully integrated external third-party services and APIs into the core infrastructure.
+**Oceanhoster** | *Software Engineer*  
+`Oct 2023 – Nov 2024` • *Remote*  
+- Customized a complex web hosting billing system and revamped the default order flow to improve conversion rates.
+- Integrated external third-party services and APIs into the core infrastructure.
 
-**Niagahoster - Web Hosting Unlimited Indonesia** | *Full Stack Developer*  
-📅 `Jan 2018 – Aug 2023` 📍 *Remote & On-site (Sleman, ID)*  
-* **Full Stack Developer** *(Sep 2019 – Aug 2023):* Architected and maintained core web hosting platforms, contributing to a high-traffic, enterprise-level codebase. 
-* **CX Specialist** *(Jan 2018 – Sep 2019):* Provided deep technical support, giving me a strong foundation in user-centric problem solving and hosting infrastructure (DNS, VPS).
+**Hostinger** | *Full Stack Developer*  
+`Jan 2018 – Aug 2023` • *Hybrid*  
+- **Full Stack Developer** *(Sep 2019 – Aug 2023):* Developed and maintained web hosting panel systems, client member areas, and internal tools for Niagahoster and Hostinger.
+- **Customer Success Specialist** *(Jan 2018 – Sep 2019):* Delivered end-to-end technical support and product onboarding for clients across live chat, email, and phone, building a strong foundation in user-centric problem-solving and hosting infrastructure.
 
 ---
 
-### 📊 GitHub Activity
+### GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=irfangani&show_icons=true&theme=transparent&hide_border=true&title_color=38B2AC&icon_color=38B2AC&text_color=ffffff" alt="GitHub Stats" width="48%"/>
@@ -80,9 +79,9 @@ I transition easily between backend logic, frontend interfaces, and server infra
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 
-Whether you want to discuss a new project, talk about optimizing large-scale applications, or just say hi—my inbox is open.
+Whether you want to discuss a new project, talk about optimizing large-scale applications, or just say hi—my inbox is always open!
 
 <p align="left">
   <a href="https://www.linkedin.com/in/irfangani" target="_blank">
@@ -90,5 +89,8 @@ Whether you want to discuss a new project, talk about optimizing large-scale app
   </a>
   <a href="https://masgani.com/" target="_blank">
     <img src="https://img.shields.io/badge/Personal_Website-%2320232a.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Blog"/>
+  </a>
+  <a href="mailto:halo@masgani.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
